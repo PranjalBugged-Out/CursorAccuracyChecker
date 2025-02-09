@@ -1,6 +1,5 @@
 # 🎯 Cursor Accuracy Checker
 
-![Cursor Accuracy Checker](https://via.placeholder.com/800x400?text=Cursor+Accuracy+Checker)
 
 ## 🚀 Project Overview
 The **Cursor Accuracy Checker** is a web-based tool that measures how quickly and accurately a user can click within a designated area. It records the time taken to complete 10 clicks and calculates an accuracy score.
